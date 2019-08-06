@@ -1,7 +1,7 @@
 Roll some dice
 ---
 
-[![Build Status](https://travis-ci.org/mentalspike/rolldice.svg?branch=master)](https://travis-ci.org/mentalspike/rolldice)
+[![Build Status](https://travis-ci.org/mentalspike/hubot-rolldice.svg?branch=master)](https://travis-ci.org/mentalspike/hubot-rolldice)
 
 ## Installation
 
@@ -23,7 +23,7 @@ The script understands basic dice notation, with a few modifiers.
     4d6k3 - 1
     d4 + 2d12 + 3d3
     4d6dl2r1 + 8
-    
+
 You can also ask hubot to output the syntax for rolls
 
     @hubot roll syntax
