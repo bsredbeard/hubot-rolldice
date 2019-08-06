@@ -9,7 +9,7 @@
   "main": "index.coffee",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mentalspike/rolldice.git"
+    "url": "https://github.com/mentalspike/hubot-rolldice.git"
   },
   "scripts": {
     "test": "mocha --compilers \"coffee:coffee-script/register\" test/*.js"
